@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 body {
     margin: 0;
     padding: 0;
+=======
+/*
+ * === Global style ===
+ */
+
+/* Body style */
+body {
+  margin: 0;
+  padding: 0;
+>>>>>>> bbb009cc761181b9224e0e50a40fc6de7a35ac91
 }

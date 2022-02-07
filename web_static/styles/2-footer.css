@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 footer {
     position: fixed;
     background: #00FF00;
@@ -12,4 +13,20 @@ footer p {
     bottom: 0;
     right: 0;
     left: 0;
+=======
+/*
+ * === Footer style ===
+ */
+
+/* Footer style */
+footer {
+  align-items: center;
+  background-color: #0f0;
+  bottom: 0;
+  display: flex;
+  height: 60px;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+>>>>>>> bbb009cc761181b9224e0e50a40fc6de7a35ac91
 }
